@@ -23,12 +23,15 @@ nav area styles start here
     padding-top: 40px;
     padding-bottom: 10px;
 }
-.logo-area{
+/* .logo-area{
 
-}
+} */
 .logo{
     font-size: 45px;
     color: #131313;;
+}
+.g3{
+    color: #FF900E;
 }
 .menu ul{
     display: flex;
